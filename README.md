@@ -20,4 +20,7 @@ Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium dolo
 ### Link to Salesforce Resources
 Testing **bold** text.
 
-https://www.salesforce.com/
+* https://www.salesforce.com/
+* https://login.salesforce.com/
+* https://www.salesforce.com/products/what-is-salesforce/
+* https://www.salesforce.com/products/
